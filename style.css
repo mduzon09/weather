@@ -1,0 +1,23 @@
+body {
+	background-image: url(images/sky.jpg);
+	background-size:cover;
+	font-size:16px;
+	font-family: 'Montserrat', sans-serif;
+}
+h1 {
+	font-color:blue;
+	text-align:center;
+}
+h2 {
+	font-size:16px;
+	text-align:center;
+
+}
+h3 {
+	text-align:center;
+}
+.container {
+	width:800px;
+	background-color:white;
+	padding:0px 15px 100px 15px;
+}
